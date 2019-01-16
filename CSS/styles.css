@@ -1,0 +1,28 @@
+.pic {
+  width: 30%;
+  float: left;
+}
+
+.img_container
+  img {
+    width: 30%;
+    margin: 5px;
+    padding: 5px;
+  }
+  p {
+    float: left;
+    width: 30%;
+    margin: 5px;
+    padding: 5px;
+  }
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
